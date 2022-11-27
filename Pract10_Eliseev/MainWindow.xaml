@@ -41,6 +41,12 @@
                     Margin="10"
                     Content="Сред. арифметическое отрицательных чисел"
                     Click="solutionClick"/>
+
+                <Button
+                    Height="70"
+                    Margin="10"
+                    Content="О программе"
+                    Click="aboutProgramm"/>
             </StackPanel>
         </Grid>
     </Grid>

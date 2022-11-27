@@ -51,5 +51,10 @@ namespace Pract10_Eliseev
             }
             MessageBox.Show(" " + sum / count);
         }
+
+        private void aboutProgramm(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Разработчик: Данила Елисеев ИСП-31. \n Составьте программу вычисления среднего арифметического отрицательных элементов");
+        }
     }
 }
